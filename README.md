@@ -1,20 +1,23 @@
 # vue-cafe
 
-## Build Setup
+## 概要
+Vue.js
+TypeScript
+Axios
+Nuxt.js
+Netlify
+microCMS
+を使用してカフェのデモサイトを作成しました。
 
-```bash
-# install dependencies
-$ npm install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## 公開URL
+https://confident-murdock-7f16d7.netlify.app/
 
-# build for production and launch server
-$ npm run build
-$ npm run start
 
-# generate static project
-$ npm run generate
-```
+## 実行
+npm install
+npm run dev
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 補足
+
